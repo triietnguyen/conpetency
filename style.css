@@ -1,0 +1,26 @@
+.content {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.table th {
+    background-color: #3199B0;
+    color: white;
+}
+
+.table td {
+    background-color: #CFE8EE;
+}
+
+
+.custom-icon {
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    cursor: pointer;
+}
